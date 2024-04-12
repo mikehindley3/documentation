@@ -3,8 +3,7 @@ XTM 201Di Inverter MIG
 
 Hazards and risks
 ----------------
-1. Trainer and trainee should go through [risk assessment](https://docs.google.com/document/d/1Nxx7gC6ZlFJ3FDdt4ViFRJvyCdW8pJC49f7d4CRjHVY/edit?usp=sharing){target="_blank"}, answering any trainee questions as they arise
-2. Trainee should be able to name three hazards found in the welding area and list the controls necessary to mitigate the risks
+1. Trainee should be able to name three hazards found in the welding area and list the controls necessary to mitigate the risks
 
 Theory Questions
 ----------------
@@ -36,6 +35,10 @@ Practical Test
 - [ ] Demonstrate how to operate the gas regulators
     - [ ] Quarter turn only when opening gas
 - [ ] Demonstrate how to turn the welding machine on and off
+
+Hazards and risks (backup)
+----------------
+- Trainer and trainee should go through [risk assessment](https://docs.google.com/document/d/1Nxx7gC6ZlFJ3FDdt4ViFRJvyCdW8pJC49f7d4CRjHVY/edit?usp=sharing){target="_blank"}, and cover any outstanding points not already discussed.
 
 ### Demonstrate whilst the machine is plugged in
 
